@@ -55,7 +55,7 @@ Yay! Have fun.
 Next Steps for me: 
 
 (a). Add pictures for each step to make the tutorial more intuitive. 
-(b). Show to connect to the router and internet. The Rpi-3 comes with wifi built-in, so we just need to add the ssid and password information. For the Rpi-2, we'll need to add an external wifi adapter, or connect it to the router via ethernet. In some cases wifi is the only option (especially if you're at a university or public place); at home, direct connection should be fine, and easiest. 
+(b). Show to connect to the router and internet. The "Rpi-3" comes with wifi built-in, so we just need to add the ssid and password information. For the Rpi-2, we'll need to add an external wifi adapter, or connect it to the router via ethernet. In some cases wifi is the only option (especially if you're at a university or public place); at home, direct connection should be fine, and easiest. 
 
 
  
