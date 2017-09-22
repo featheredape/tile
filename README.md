@@ -15,8 +15,11 @@ Background information that one should read.
 * [What is Ethereum, in brief](http://jefflau.net/what-is-ethereum/)
 
 #### Learning Solidity
-* [Solidity](https://solidity.readthedocs.io/en/develop/): Read the Docs. For coding smart contracts, read this guide.
-* [Learn Solidity in Y minutes](https://learnxinyminutes.com/docs/solidity/): Excellent resource, co-written by Joseph T
+* [Learn Solidity (Blockgeeks)](https://blockgeeks.com/guides/how-to-learn-solidity/)
+* [Solidity Tutorials](https://ethereumbuilders.gitbooks.io/guide/content/en/solidity_tutorials.html)
+* [Solidity: Read the Docs](https://solidity.readthedocs.io/en/develop/): For coding smart contracts and understanding the fundamentals of the Solidity language, read this guide.
+* [Learn Solidity in Y minutes](https://learnxinyminutes.com/docs/solidity/): Excellent resource, co-written by Joseph * [Solidity on Udemy](https://www.udemy.com/best-solidity-tutorial-course-ethereum-blockchain-development/): Costs $200 though.
+  * [Hackernoon: Getting Started as an Ethereum Web Developer](https://hackernoon.com/getting-started-as-an-ethereum-web-developer-9a2a4ab47baf)
 * [How to start developing on Ethereum: for web developers](http://jefflau.net/how-to-start-developing-on-ethereum-for-web-developers/)
 * [Gitter.im/ethereum/solidity](https://gitter.im/ethereum/solidity): Get information from the source -- Solidity devs themselves.
 
@@ -48,7 +51,7 @@ This is a list of tools that you can use for writing Ethereum smart contracts.
 
 ## Learning to Code
 
-#### Courses
+#### General Coding Courses
 * [Harvard CS50](https://cs50.harvard.edu/): Awesome course; so many great lectures, quizzes, and reading material.
 
 #### Videos: Learn how to program
@@ -78,9 +81,11 @@ This is a list of tools that you can use for writing Ethereum smart contracts.
 
 #### Articles
 This is a collection of articles and information about Ethereum and Blockchain technologies in general
-
+* [Ethereum White Paper](https://github.com/ethereum/wiki/wiki/White-Paper). By Vitalik
+* [Articles by Vitalik](https://blog.ethereum.org/author/vitalik-buterin/) Just read everythign V writes. 
 * [Economist: The great chain of being sure about things](http://www.economist.com/news/briefing/21677228-technology-behind-bitcoin-lets-people-who-do-not-know-or-trust-each-other-build-dependable) (Oct 31st 2015)
-
+* [Economist: Disrupting the Trust Business](https://www.economist.com/news/world-if/21724906-trust-business-little-noticed-huge-startups-deploying-blockchain-technology-threaten)
+*
 
 #### Misc Coding Links and Info and Philosophies
 * [Computational Thinking](http://socialissues.cs.toronto.edu/index.html?p=279.html)
